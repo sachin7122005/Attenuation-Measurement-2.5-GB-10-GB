@@ -60,25 +60,21 @@ Using the power budget equation and the parameters below, determine the attenuat
      - Eye diagram  
 
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
+TABULATION(2.5GB)
+<img width="1600" height="1161" alt="image" src="https://github.com/user-attachments/assets/767fa873-2fa9-42db-bfa9-77a41d481a6d" />
+<img width="977" height="748" alt="Screenshot 2026-05-20 091218" src="https://github.com/user-attachments/assets/f0a6fbde-6ac1-4cfe-85c3-50ef857e9fdd" />
+<img width="982" height="729" alt="Screenshot 2026-05-20 091203" src="https://github.com/user-attachments/assets/ff8e3563-2e41-48d3-8ae0-46c1f7d87de1" />
+
+#10GB
+<img width="1360" height="1250" alt="WhatsApp Image 2026-05-21 at 2 19 48 PM" src="https://github.com/user-attachments/assets/981f61b8-eec9-46a3-865a-bca45fb7a906" />
+
+<img width="975" height="734" alt="Screenshot 2026-05-20 083559" src="https://github.com/user-attachments/assets/64cd7eda-1d3d-4001-8aca-ea16dc65e398" />
+<img width="1090" height="847" alt="Screenshot 2026-05-20 083612" src="https://github.com/user-attachments/assets/cf806589-57b2-402a-bf28-7389306852d5" />
 
 ---
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
+## Result
+Thus the attenuation-limited fiber length based on the power budget equation is successfully simulated and verified.
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
-
-- **Pre-lab Calculations**  
-
-- **Screenshots** of layout and results (including eye diagrams)  
-
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
-
-- **Written Summary** of observations and explanations of differences.  
